@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\TEST_762\\MassivesoftBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{123CC7FB-9873-FCEA-8297-DD2F5F0286AE}|MassivesoftBase.csproj|g:\\test_762\\massivesoftbase\\massivesoftbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123CC7FB-9873-FCEA-8297-DD2F5F0286AE}|MassivesoftBase.csproj|solutionrelative:massivesoftbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MassivesoftBase.cs",
+              "DocumentMoniker": "G:\\TEST_762\\MassivesoftBase\\MassivesoftBase.cs",
+              "RelativeDocumentMoniker": "MassivesoftBase.cs",
+              "ToolTip": "G:\\TEST_762\\MassivesoftBase\\MassivesoftBase.cs",
+              "RelativeToolTip": "MassivesoftBase.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:22:14.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

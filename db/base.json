@@ -1,0 +1,104 @@
+{
+	"_id": "A33333AAAAAA000BBB000BBB",
+	"availableInRaid": false,
+	"avatar": "/files/trader/avatar/QB.png",
+	"balance_dol": 0,
+	"balance_eur": 0,
+	"balance_rub": 80000000,
+	"buyer_up": true,
+	"currency": "RUB",
+	"customization_seller": false,
+	"discount": 0,
+	"discount_end": 0,
+	"gridHeight": 150,
+	"insurance": {
+		"availability": false,
+		"excluded_category": [],
+		"max_return_hour": 2,
+		"max_storage_time": 65535,
+		"min_payment": 0,
+		"min_return_hour": 1
+	},
+	"isAvailableInPVE": true,
+	"isCanTransferItems": false,
+	"isCanTransferItemsFromPve": false,
+	"items_buy": {
+		"category": [
+			"5422acb9af1c889c16000029",
+			"5448e8d04bdc2ddf718b4569"
+		],
+		"id_list": []
+	},
+	"items_buy_prohibited": {
+		"category": [],
+		"id_list": []
+	},
+	"items_sell": {},
+	"location": "Химкомбинат",
+	"loyaltyLevels": [
+		{
+			"buy_price_coef": 44,
+			"exchange_price_coef": 0,
+			"heal_price_coef": 0,
+			"insurance_price_coef": 10,
+			"minLevel": 1,
+			"minSalesSum": 0,
+			"minStanding": 0,
+			"repair_price_coef": 175
+		},
+		{
+			"buy_price_coef": 44,
+			"exchange_price_coef": 0,
+			"heal_price_coef": 0,
+			"insurance_price_coef": "12",
+			"minLevel": 1,
+			"minSalesSum": 750,
+			"minStanding": 0,
+			"repair_price_coef": 180
+		},
+		{
+			"buy_price_coef": 44,
+			"exchange_price_coef": 0,
+			"heal_price_coef": 0,
+			"insurance_price_coef": "14",
+			"minLevel": 1,
+			"minSalesSum": 1600,
+			"minStanding": 0,
+			"repair_price_coef": 185
+		},
+		{
+			"buy_price_coef": 44,
+			"exchange_price_coef": 0,
+			"heal_price_coef": 0,
+			"insurance_price_coef": "16",
+			"minLevel": 1,
+			"minSalesSum": 2500,
+			"minStanding": 0,
+			"repair_price_coef": 195
+		}
+	],
+	"mainDialogue": null,
+	"medic": false,
+	"name": "Massivesoft Weapons",
+	"nextResupply": 1631483553,
+	"nickname": "Mass",
+	"prohibitedTransferableItems": {
+		"category": [],
+		"id_list": []
+	},
+	"repair": {
+		"availability": false,
+		"currency": "5449016a4bdc2d6f028b456f",
+		"currency_coefficient": 1,
+		"excluded_category": [],
+		"excluded_id_list": [],
+		"quality": 0.01
+	},
+	"sell_category": [],
+	"surname": "Mass",
+	"transferableItems": {
+		"category": [],
+		"id_list": []
+	},
+	"unlockedByDefault": true
+}
